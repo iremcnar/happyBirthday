@@ -18,4 +18,4 @@ A generative typographic visual and interactive animation in Python that constru
 ## How to Run
 
 ```bash
-python birthday_cake.py
+python birthday.py
