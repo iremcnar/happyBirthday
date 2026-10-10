@@ -2,7 +2,9 @@
 
 A generative typographic visual and interactive animation in Python that constructs a multi-tiered birthday cake composed of "Happy Birthday" greetings in 25 different languages—complete with flickering candle flames, realistic smoke dissipation, and a step-by-step "eating" animation.
 
-<img width="1244" height="734" alt="image" src="https://github.com/user-attachments/assets/c2e9741d-b83e-4565-b6d1-1141305b6bd9" />
+
+<img width="1231" height="740" alt="image" src="https://github.com/user-attachments/assets/e7f4228e-1f30-44aa-a993-498560bcf94b" />
+
 
 
 ## Features
